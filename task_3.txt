@@ -1,0 +1,18 @@
+Meta tags offer several benefits for websites and their performance in search engine results. Here are some key advantages of using meta tags:
+
+1. Improved SEO:
+Meta tags, particularly the title and description tags, influence how a webpage appears in search engine results. Well written meta tags leads to improved visibility on search engine result pages(SERPs) and higher click-through rates.
+
+2. Social Media Sharing:
+Some meta tags, like Open Graph meta tags, influence how content appears when shared on social media platforms. This helps ensure that shared links display the intended title, description, and images making it more attractive and informative.
+
+3. Enhanced User Experience:
+The meta description provides a concise summary of the webpage content, helping users understand what to expect before clicking on the link. This contributes to a better user experience.
+
+4. Character Encoding and Language: This ensures that the browser interprets the text correctly, when dealing with special characters or multiple languages.
+
+5. Control over Indexing and Crawling:
+The robots meta tag provides control over how search engines index and crawl a webpage. 
+
+6. Accessibility and Usability:
+Meta tags contribute to the overall accessibility and usability of a website. Descriptive title and description tags aid users in understanding the content, making the website more user-friendly.
